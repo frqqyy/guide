@@ -13,9 +13,9 @@
 | 存款利息    | UBS Personal Account: 无。UBS Savings Account: 2024年四月一日起：50000瑞法以下：1.0%。50000瑞法以上：0.3%                                                                                             | Student Account: 25000瑞法以下: 0.25%。savings account：20岁以下及25000瑞法以下：1.1%。20岁以上及50000瑞法以下：0.8%。                                                                 | 支付账户：25000瑞法以下：0.25%。储蓄账户：50000瑞法以下：1.1%。250000瑞法以下：0.25%                                                                                     |
 | 免费存取款地点 | UBS的ATM机                                                                                                                                                                                           | PostFinance的ATM机，邮局/Migros/Manor/Spar/SBB/Coop Pronto Shops/Denner（主要是超市和商店）也可以免费取款                                                                                      | ZKB自己的取款机（仅苏黎世州）                                                                                                                                      |
 | 境外可以使用吗 | 可以，但有手续费，[详见](https://www.ubs.com/ch/en/private/accounts-and-cards/creditcards/additional-fees.html)                                                                                                                                                                                           | 可以，但有手续费， [详见](https://www.postfinance.ch/en/private/paying-saving/debit-credit-cards/postfinance-card-chf.html#f36d2c)                                                                                                                                                                     | 可以，但有手续费                                                                                                                                       |
-| 优惠/优点   | 开户送价值50瑞法的**Key Club points** 可用于消费，开户可将别人列为推荐人（推荐人可享受额外优惠）                                                                                                                                        | 接受程度最广                                                                                                                                                                   | ATM特别多，且支持存硬币；夜班公交（周五周六0：30以后）免费（正常票价5瑞法，不能打折）；有很多其它折扣，比如麦当劳和星巴克可打85折                                                                          |
+| 优惠/优点   | 开户送价值50瑞法的**Key Club points** 可用于消费，开户可将别人列为推荐人（推荐人可享受额外优惠）                                                                                                                                        | 取钱免费                                                                                                                                                                   | ATM特别多，且支持存硬币；夜班公交（周五周六0：30以后）免费（正常票价5瑞法，不能打折）；有很多其它折扣，比如麦当劳和星巴克可打85折                                                                          |
 | 移动支付    | UBS TWINT                                                                                                                                                                                          | TWINT                                                                                                                                                                    | ZKB TWINT（可能只有德语）                                                                                                                              |                                                                                                                    |
-| 其它注意事项  | Debit card类型尽量选Visa或者Mastercard，另外两种（V PAY 或者 Maestro）功能少一些                                                                                                                                        |                                                                                                                                                                          | 据说Prepaid卡接受程度较低                                                                                                                               |
+| 其它注意事项  | Debit card类型尽量选Visa或者Mastercard，另外两种（V PAY 或者 Maestro）功能少一些                                                                                                                                        |储蓄卡可能会在个别商家无法直接支付                                                                                                                                                                          | 据说Prepaid卡接受程度较低                                                                                                                               |
 
 **有美国经历同学在UBS开户请注意**：
 
@@ -25,11 +25,6 @@
 
 总的来说，不必过于紧张。根据UBS反馈，国际学生一般不会有问题。但如果你有美国护照/绿卡，则审核会很严格。
 
-^
-
-**Bank Cler**：
-优点：境外使用虚拟卡Virtual Prepaid VISA card无手续费，转账进账户可获优惠券
-缺点：网页无英语版，无学生账户，开户填完文件后需要审核，ATM机较少
 
 ^
 
@@ -45,15 +40,11 @@
 
 ^
 
-**Revolut**：有四种等级的账户，**standard**账户无月费。每月**免费取现限额200瑞法**。可选择申请实体卡（叫Revolut card的debit card, 需要先付一笔**运费**），但有**虚拟卡**（一般是Visa或者Maestro的credit card，不可选）。每月**免费换汇限额1000瑞法**。如**账户主货币是瑞法**，在瑞士内部用瑞法转账是免费的。每月可免费在欧洲内部用欧元转账**一次**。用美元向欧洲以外其它地区转账手续费为3瑞法一次，用其它货币5瑞法一次。Plus、Premium和Metal有月费，但功能更多，限额更高。据说不太稳定，不推荐放很多钱在Revolut账户上。但因为可生成一次性虚拟卡，适合用来在比较可疑的网站上付费。
+**Revolut**：有五种等级的账户，[详见](https://www.revolut.com/our-pricing-plans/)。据说不太稳定，不推荐放很多钱在Revolut账户上。但因为可生成一次性虚拟卡，适合用来在比较可疑的网站上付费。
 
 ^
 
 **Yuh**：账户无月费。可免费得到实体卡（Yuh Mastercard）。每月**一次免费取现**。**国外取现4.9瑞法一次**。**欧洲内部其它货币转账4瑞法一次**。储蓄利息：25000瑞法/欧元/美元以下：0.75%，25000瑞法/欧元/美元以上：0.5%。据说它的欧元卡比较推荐，似乎比Revolut稳定一些。
-
-^
-
-**N26**：**不支持瑞法**。有两种账户，Standard无月费，Smart月费4.9欧元。主要区别在于Smart账户必然包含实体卡，Standard可选（可能需要付**运费**）。都包含virtual debit MasterCard。Standard每月**免费取现3次**，Smart5次。**每天转账限额2500欧元，每月20000欧元。每天取现限额2500欧元，每月20000欧元**。可免费在欧洲内部用欧元转账。向欧洲以外其它地区转账用的是Wise的服务，**手续费在0.5%-1.5%这个范围内**。
 
 ^
 
@@ -78,9 +69,6 @@
 > Yuh:
 > <https://www.yuh.com/en/pricing>
 > <https://www.yuh.com/en/support/faq>
-> N26：
-> <https://n26.com/en-ch/plans>
-> <https://swissneobanks.ch/app/n26-switzerland#n26-switzerland-credit-card-and8211-510>
 > 特别鸣谢：
 > 周睿：<https://zhuanlan.zhihu.com/p/168781846>
 > 马贤哲
