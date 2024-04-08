@@ -15,7 +15,7 @@
 | 境外可以使用吗 | 可以，但有手续费，[详见](https://www.ubs.com/ch/en/private/accounts-and-cards/creditcards/additional-fees.html)                                                                                                                                                                                           | 可以，但有手续费， [详见](https://www.postfinance.ch/en/private/paying-saving/debit-credit-cards/postfinance-card-chf.html#f36d2c)                                                                                                                                                                     | 可以，但有手续费                                                                                                                                       |
 | 优惠/优点   | 开户送价值50瑞法的**Key Club points** 可用于消费，开户可将别人列为推荐人（推荐人可享受额外优惠）                                                                                                                                        | 取钱免费                                                                                                                                                                   | ATM特别多，且支持存硬币；夜班公交（周五周六0：30以后）免费（正常票价5瑞法，不能打折）；有很多其它折扣，比如麦当劳和星巴克可打85折                                                                          |
 | 移动支付    | UBS TWINT                                                                                                                                                                                          | TWINT                                                                                                                                                                    | ZKB TWINT（可能只有德语）                                                                                                                              |                                                                                                                    |
-| 其它注意事项  | Debit card类型尽量选Visa或者Mastercard，另外两种（V PAY 或者 Maestro）功能少一些                                                                                                                                        |储蓄卡可能会在个别商家无法直接支付                                                                                                                                                                          | 据说Prepaid卡接受程度较低                                                                                                                               |
+| 其它注意事项  | Debit card类型尽量选Visa或者Mastercard，另外两种（V PAY 或者 Maestro）功能少一些                                                                                                                                        |储蓄卡可能会在个别商家无法直接支付                                                                                                                                                                          | 据说Prepaid卡接受程度较低。仅限苏黎世州有分行。                                                                                                                               |
 
 **有美国经历同学在UBS开户请注意**：
 
@@ -40,7 +40,7 @@
 
 ^
 
-**Revolut**：有五种等级的账户，[详见](https://www.revolut.com/our-pricing-plans/)。据说不太稳定，不推荐放很多钱在Revolut账户上。但因为可生成一次性虚拟卡，适合用来在比较可疑的网站上付费。
+**Revolut**：有五种等级的账户，[详见](https://www.revolut.com/our-pricing-plans/)。Standard账户无月费，每月可取现金200瑞法或五次，每月免费换汇额度1000瑞法。最近推荐开户有奖金。据说不太稳定，不推荐放很多钱在Revolut账户上。但因为可生成一次性虚拟卡，适合用来在比较可疑的网站上付费。
 
 ^
 
